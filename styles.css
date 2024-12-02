@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: #D8DBE2;
+    color: #1f242e;
+    display: flex;
+    font-family: Poppins, sans-serif;
+    text-align: justify;
+}
+
+.menu-lateral{
+    background-color: #373F51;
+    color: #D8DBE2;
+    padding: 40px;
+    width: 800px;
+    font-size: 14px;
+    font-style: oblique;
+}
+
+#foto-perfil{
+    border-radius: 50%;
+    height: 250px;
+    width: 250px;
+    object-fit: cover;
+    margin-bottom: 30px;
+}
+
+.menu-principal{
+    margin: 90px 50px 90px 50px;
+}
+
+section{
+    margin-top: 50px;
+}
+
+a:hover{
+    color: #D8DBE2;
+}
+
+.competencias p{
+    margin-top: 15px;
+}
+
+h1{
+    text-decoration: double;
+}
